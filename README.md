@@ -10,3 +10,6 @@ Solidity Contract that allows the minting and burning of tokens.
 
 * Open the repository on remix IDE.
 * Set the compiler version to "0.8.18"
+* Compile the code.
+* Deploy the code.
+
