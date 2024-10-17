@@ -11,6 +11,7 @@ The code can be run using Remix, an online Solidity IDE. Remix can be accessed a
 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension. Copy and paste the code into the editor:
 ```
+sol
 pragma solidity 0.8.18;
 contract MyToken {
     // public variables here
