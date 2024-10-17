@@ -43,10 +43,10 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Once the contract is deployed, you can interact with it by calling the burn, mint, and other functions in the contract. Additionally, if an address is needed for testing purposes; you can head over to the account "Deploy & Run Transactions" tab and use any of the account addresses in the accounts drop down. To use the burn and mint functions, you can head over and click the dropdown on the "mint" or "burn" section of the deployed transactions; Enter an address and a value, and finally click transact.
 
-### Authors
+## Authors
 TWENTY-2020
 
-### License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 
