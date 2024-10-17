@@ -46,4 +46,7 @@ Once the contract is deployed, you can interact with it by calling the burn, min
 ### Authors
 TWENTY-2020
 
+### License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
 
