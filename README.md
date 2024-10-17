@@ -10,8 +10,7 @@ The code is written in Solidity, a programming language for developing in Ethere
 The code can be run using Remix, an online Solidity IDE. Remix can be accessed and used in https://remix.ethereum.org/.
 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension. Copy and paste the code into the editor:
-```
-sol
+```solidity
 pragma solidity 0.8.18;
 contract MyToken {
     // public variables here
